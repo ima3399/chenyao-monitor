@@ -1,0 +1,5 @@
+2026-11-10 10:03:01 [agent] host=CY-API-GW-01 seq=482191 send_ok=28 latency_ms=18
+2026-11-10 10:03:08 [agent] host=CY-APP-WEB-02 seq=391740 send_ok=28 latency_ms=19
+2026-11-10 10:03:21 [agent] host=CY-DB-MYSQL-01 seq=512048 send_ok=28 latency_ms=11
+2026-11-10 10:03:33 [agent] host=CY-MQ-KAFKA-02 seq=307516 send_ok=28 latency_ms=31
+2026-11-10 10:03:44 [agent] host=CY-LOG-ES-01 seq=278221 send_ok=28 latency_ms=26

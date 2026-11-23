@@ -1,0 +1,5 @@
+2026-11-10 09:41:56 CY-DB-MYSQL-01 kernel: TCP: request_sock_TCP: Possible SYN flooding on port 3306
+2026-11-10 09:42:18 CY-DB-MYSQL-01 monitor-engine: cpu threshold exceeded value=96.8 threshold=90
+2026-11-10 09:43:05 CY-APP-WEB-02 app-web: request queue depth=124 worker=32
+2026-11-10 09:58:44 CY-EDGE-02 edge-gateway: heartbeat jitter detected value=128s
+2026-11-10 10:03:22 CY-LOG-ES-01 elasticsearch: disk high watermark reached usage=82.1%

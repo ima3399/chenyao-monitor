@@ -1,0 +1,2 @@
+2026-11-09 23:58:10 10.24.8.11 GET /api/v1/cluster/health 200 15ms
+2026-11-09 23:59:21 10.24.9.11 POST /api/v1/instances/query 200 74ms

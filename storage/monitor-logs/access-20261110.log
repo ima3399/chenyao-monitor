@@ -1,0 +1,5 @@
+2026-11-10 10:02:58 10.24.8.21 GET /api/v1/cluster/health 200 12ms
+2026-11-10 10:03:06 10.24.8.11 POST /api/v1/metrics/batch 202 38ms
+2026-11-10 10:03:18 10.24.9.11 GET /api/v1/instances 200 21ms
+2026-11-10 10:03:31 10.24.11.12 POST /api/v1/edge/report 200 46ms
+2026-11-10 10:03:42 10.24.8.22 GET /api/v1/service/status 503 187ms
